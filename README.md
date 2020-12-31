@@ -1,6 +1,6 @@
 # DataSHIELD Data
 
-[![Build Status](https://travis-ci.com/datashield/DSLite.svg?branch=main)](https://travis-ci.com/datashield/DSLite)
+[![Build Status](https://travis-ci.com/datashield/DSData.svg?branch=main)](https://travis-ci.com/datashield/DSData)
 
 DataSHIELD test datasets.
 
