@@ -1,0 +1,27 @@
+Package: DSData
+Type: Package
+Version: 0.9.0
+Title: 'DataSHIELD' Test Datasets
+Authors@R:
+    c(person(given = "Yannick",
+             family = "Marcon",
+             role = c("aut", "cre"),
+             email = "yannick.marcon@obiba.org",
+             comment = c(ORCID = "0000-0003-0138-2023")))
+Depends:
+    R (>= 3.5.0)
+Suggests:
+    knitr,
+    testthat,
+    rmarkdown
+Description: 'DataSHIELD' is an infrastructure and series of R packages that 
+    enables the remote and 'non-disclosive' analysis of sensitive research data.
+    This package provides test datasets to be used for provisionning 'DataSHIELD'
+    node servers and also compare with plain R analysis. 
+License: LGPL (>= 2.1)
+URL: http://www.datashield.ac.uk https://doi.org/10.1093/ije/dyu188
+BugReports: https://github.com/datashield/DSData
+RoxygenNote: 7.1.1
+Roxygen: list(markdown = TRUE)
+VignetteBuilder: knitr
+Encoding: UTF-8
