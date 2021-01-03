@@ -7,7 +7,10 @@ Authors@R:
              family = "Marcon",
              role = c("aut", "cre"),
              email = "yannick.marcon@obiba.org",
-             comment = c(ORCID = "0000-0003-0138-2023")))
+             comment = c(ORCID = "0000-0003-0138-2023")), 
+      person(given = "Stuart",
+             family = "Wheater",
+             role = "ctb"))
 Depends:
     R (>= 3.5.0)
 Suggests:
