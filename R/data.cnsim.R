@@ -2,8 +2,8 @@
 #'
 #' Simulated dataset CNSIM 1, in a data.frame with 2163 observations of 11 harmonized
 #' variables. The CNSIM dataset contains synthetic data based on a model derived from the
-#' participants of the 1958 Birth Cohort, as part of the obesity methodological development
-#' project. This dataset does contain some NA values.
+#' participants of the 1958 Birth Cohort, as part of as part of the \href{https://cordis.europa.eu/project/id/261433}{EU FP7 BioSHaRE-EU}
+#' Healthy Obesity Project project. This dataset does contain some NA values.
 #'
 #' | **Variable**       | **Description**                  | **Type** | **Note** |
 #' | ------------------ | -------------------------------- | -------- | -------- |
@@ -22,14 +22,15 @@
 #' @name CNSIM1
 #' @docType data
 #' @keywords data
+#' @author Chris Newby for the DataSHIELD development team
 NULL
 
 #' Simulated dataset CNSIM 2
 #'
 #' Simulated dataset CNSIM 1, in a data.frame with 3088 observations of 11 harmonized variables
 #' variables. The CNSIM dataset contains synthetic data based on a model derived from the
-#' participants of the 1958 Birth Cohort, as part of the obesity methodological development
-#' project. This dataset does contain some NA values.
+#' participants of the 1958 Birth Cohort, as part of as part of the \href{https://cordis.europa.eu/project/id/261433}{EU FP7 BioSHaRE-EU}
+#' Healthy Obesity Project project. This dataset does contain some NA values.
 
 #'
 #' | **Variable**       | **Description**                  | **Type** | **Note** |
@@ -49,14 +50,15 @@ NULL
 #' @name CNSIM2
 #' @docType data
 #' @keywords data
+#' @author Chris Newby for the DataSHIELD development team
 NULL
 
 #' Simulated dataset CNSIM 3
 #'
 #' Simulated dataset CNSIM 1, in a data.frame with 4128 observations of 11 harmonized variables
 #' variables. The CNSIM dataset contains synthetic data based on a model derived from the
-#' participants of the 1958 Birth Cohort, as part of the obesity methodological development
-#' project. This dataset does contain some NA values.
+#' participants of the 1958 Birth Cohort, as part of as part of the \href{https://cordis.europa.eu/project/id/261433}{EU FP7 BioSHaRE-EU}
+#' Healthy Obesity Project project. This dataset does contain some NA values.
 #'
 #' | **Variable**       | **Description**                  | **Type** | **Note** |
 #' | ------------------ | -------------------------------- | -------- | -------- |
@@ -75,4 +77,5 @@ NULL
 #' @name CNSIM3
 #' @docType data
 #' @keywords data
+#' @author Chris Newby for the DataSHIELD development team
 NULL
