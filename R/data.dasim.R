@@ -2,7 +2,7 @@
 #'
 #' Simulated dataset DASIM 1, in a data.frame with 10000 observations of 10 harmonized variables.
 #' The DASIM dataset contains synthetic data based on a model derived from the participants of
-#' the 1958 Birth Cohort, as part of the obesity methodological development project. This dataset
+#' the 1958 Birth Cohort, as part of the \href{https://cordis.europa.eu/project/id/261433}{EU FP7 BioSHaRE-EU} Healthy Obesity Project. This dataset
 #' does not contain some NA values.
 #'
 #' | **Variable**       | **Description**                  | **Type** | **Note** |
@@ -21,13 +21,14 @@
 #' @name DASIM1
 #' @docType data
 #' @keywords data
+#' @author Demetris Avraam for the DataSHIELD development team
 NULL
 
 #' Simulated dataset DASIM 2
 #'
 #' Simulated dataset DASIM 2, in a data.frame with 10000 observations of 10 harmonized variables.
 #' The DASIM dataset contains synthetic data based on a model derived from the participants of
-#' the 1958 Birth Cohort, as part of the obesity methodological development project. This dataset
+#' the 1958 Birth Cohort, as part of the \href{https://cordis.europa.eu/project/id/261433}{EU FP7 BioSHaRE-EU} Healthy Obesity Project. This dataset
 #' does not contain some NA values.
 #'
 #' | **Variable**       | **Description**                  | **Type** | **Note** |
@@ -46,13 +47,14 @@ NULL
 #' @name DASIM2
 #' @docType data
 #' @keywords data
+#' @author Demetris Avraam for the DataSHIELD development team
 NULL
 
 #' Simulated dataset DASIM 3
 #'
 #' Simulated dataset DASIM 3, in a data.frame with 10000 observations of 10 harmonized variables.
 #' The DASIM dataset contains synthetic data based on a model derived from the participants of
-#' the 1958 Birth Cohort, as part of the obesity methodological development project. This dataset
+#' the 1958 Birth Cohort, as part of the \href{https://cordis.europa.eu/project/id/261433}{EU FP7 BioSHaRE-EU} Healthy Obesity Project. This dataset
 #' does not contain some NA values.
 #'
 #' | **Variable**       | **Description**                  | **Type** | **Note** |
@@ -71,4 +73,5 @@ NULL
 #' @name DASIM3
 #' @docType data
 #' @keywords data
+#' @author Demetris Avraam for the DataSHIELD development team
 NULL
